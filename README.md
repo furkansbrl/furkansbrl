@@ -1,4 +1,4 @@
-c<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Furkan</h1> 
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Furkan</h1> 
 <h3 align="center">Full-time Full Stack Developer and programmer who enjoys learning new things</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
